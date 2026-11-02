@@ -3,7 +3,7 @@ Computational modeling of nanoparticle transport in cilia-driven mucus flows, fo
 
 This repository is provided to support the submitted manuscript entitled:
 
-**"Nanoparticle transport in a flowing mucus layer"**, submitted to *Nanoscale*.
+**"Nanoparticle transport in a flowing mucus layer"**, submitted to *Physical Review E*.
 
 ---
 
